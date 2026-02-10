@@ -1,7 +1,7 @@
-# ⚡ BFHL API
+# ⚡ BAJAJ FINSERV
 
 <div align="center"> 
-  <img src="https://media2.giphy.com/media/J6Ukx0azkxCBGUn846/giphy.gif" alt="API GIF" width="300" height="300">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWMxa3dha2FqZDhqeGQ2czk0MjB5M21uN2lyOGM1dzN3ZnY3Nnp1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="API GIF" width="300" height="300">
 </div>
 
 <div align="center"><i>A lightweight Node.js + Express API deployed on Vercel for Fibonacci, Prime, LCM, HCF, and AI-powered queries.</i></div>
