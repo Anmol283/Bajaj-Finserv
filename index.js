@@ -11,5 +11,5 @@ const healthRoutes = require("./routes/health");
 app.use("/bfhl", bfhlRoutes);
 app.use("/health", healthRoutes);
 
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+// Do not call app.listen() on Vercel
+module.exports = app;
