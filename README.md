@@ -202,7 +202,3 @@ BFHL-API/
   "error": "Invalid input key"
 }
 ```
-
-
-
-## 📁 Directory Structure
